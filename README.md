@@ -1,10 +1,14 @@
 # steam_gameservers_linux_update
 
+<img src="https://img.shields.io/badge/Build%20Status-passed-green.svg" alt="passed"> <img src="https://img.shields.io/badge/tested%20OS-Debian%20server%2010.1%20x64-blue.svg">
+
 ##Requirements
--linux based os /debian,../
--user e.g. user1
--32bit libs (x86)
--console/terminal
+- linux based os /debian,../
+- sudoers   (```aptitude install sudo```)
+- user user1  (```sudo adduser --disabled-login user1```)
+- 32bit libs (x86) and other libs...
+
+
 
 Steam Dedicated Game Servers update
 
