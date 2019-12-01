@@ -22,3 +22,6 @@ Steam Dedicated Game Servers update
 server downloaded/update to folder /opt/server1/game/
 
 start server and play :D
+
+
++works with teklab autoupdate
