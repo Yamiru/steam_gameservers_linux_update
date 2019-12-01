@@ -24,4 +24,4 @@ server downloaded/update to folder /opt/server1/game/
 start server and play :D
 
 
-+works with teklab autoupdate
++works with teklab linux gamepanel autoupdate
